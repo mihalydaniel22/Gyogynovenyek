@@ -70,7 +70,7 @@ namespace Gyogynovenyek
                 szum += n.Idotartam;
             }
             atlag = szum / novenyek.Count;
-            Console.WriteLine("Átlagos gyűjthető időtartam {0}",atlag);
+            Console.WriteLine("Átlagos gyűjthető időtartam  {0}",atlag);
         }
 
         static void Main(string[] args)
